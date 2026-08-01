@@ -1,0 +1,15 @@
+/workspaces/Java-Practice/C#/bin/Debug/net10.0/C#
+/workspaces/Java-Practice/C#/bin/Debug/net10.0/C#.deps.json
+/workspaces/Java-Practice/C#/bin/Debug/net10.0/C#.runtimeconfig.json
+/workspaces/Java-Practice/C#/bin/Debug/net10.0/C#.dll
+/workspaces/Java-Practice/C#/bin/Debug/net10.0/C#.pdb
+/workspaces/Java-Practice/C#/obj/Debug/net10.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Java-Practice/C#/obj/Debug/net10.0/C#.AssemblyInfoInputs.cache
+/workspaces/Java-Practice/C#/obj/Debug/net10.0/C#.AssemblyInfo.cs
+/workspaces/Java-Practice/C#/obj/Debug/net10.0/C#.csproj.CoreCompileInputs.cache
+/workspaces/Java-Practice/C#/obj/Debug/net10.0/C#.sourcelink.json
+/workspaces/Java-Practice/C#/obj/Debug/net10.0/C#.dll
+/workspaces/Java-Practice/C#/obj/Debug/net10.0/refint/C#.dll
+/workspaces/Java-Practice/C#/obj/Debug/net10.0/C#.pdb
+/workspaces/Java-Practice/C#/obj/Debug/net10.0/C#.genruntimeconfig.cache
+/workspaces/Java-Practice/C#/obj/Debug/net10.0/ref/C#.dll
