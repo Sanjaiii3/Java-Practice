@@ -1,26 +1,32 @@
-package HashSet;
 import java.util.*;
 
-public class ArrayUnion {
+public class UnionOfArrays {
 
-    public static ArrayList<Integer> findUnion(int[] a, int[] b) {
+    public static ArrayList<Integer> findUnion(int[] a, int [] b){
+
 
         ArrayList<Integer> list = new ArrayList<>();
 
+
         int[] ans = new int[a.length + b.length];
         int ind = 0;
+
 
         for (int i = 0; i < a.length; i++) {
             ans[ind++] = a[i];
         }
 
+
         for (int j = 0; j < b.length; j++) {
             ans[ind++] = b[j];
         }
 
+
         Arrays.sort(ans);
 
+
         HashSet<Integer> set = new HashSet<>();
+
 
         for (int x : ans) {
             if (!set.contains(x)) {
@@ -29,10 +35,13 @@ public class ArrayUnion {
             }
         }
 
+
         return list;
     }
 
+
     public static void main(String[] args) {
+
 
         Scanner sc = new Scanner(System.in);
 
@@ -60,6 +69,7 @@ public class ArrayUnion {
         for (int x : ans) {
             System.out.print(x + " ");
         }
+        System.out.println();
 
         sc.close();
     }
