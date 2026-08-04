@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class LongUniqueSubString {
 
     public static int longestUniqueSubstr(String s) {
         HashSet<Character> set = new HashSet<>();
