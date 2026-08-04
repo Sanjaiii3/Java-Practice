@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class Candy{
 
     public static int candydistribute(int arr[], int m) {
         Arrays.sort(arr);
