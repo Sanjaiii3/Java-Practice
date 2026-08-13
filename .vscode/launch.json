@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidIPddress",
+            "request": "launch",
+            "mainClass": "ValidIPddress",
+            "projectName": "java programming_c46ef6bb"
+        },
+        {
+            "type": "java",
             "name": "LengthOfLongSubStrwithKfreq",
             "request": "launch",
             "mainClass": "LengthOfLongSubStrwithKfreq",
